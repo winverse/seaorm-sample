@@ -1,0 +1,8 @@
+# compile
+**/target
+
+# env
+.env
+
+# database
+*.sqlite
